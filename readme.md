@@ -9,7 +9,7 @@ Este repositorio contiene los archivos y el código correspondiente a una prueba
 
 ### Instalacion
 
-1. Clonar ek repositorio
+1. Clonar ek repositorio https://github.com/rafo18/prueba_Tecnica_Banco_Ganadero.git
 ```
 git clone 
 ```

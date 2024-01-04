@@ -9,9 +9,9 @@ Este repositorio contiene los archivos y el código correspondiente a una prueba
 
 ### Instalacion
 
-1. Clonar ek repositorio
+1. Clonar el repositorio 
 ```
-git clone 
+git clone https://github.com/rafo18/prueba_Tecnica_Banco_Ganadero.git
 ```
 
 2. Inicializar npm

@@ -1,5 +1,3 @@
-import { expect } from 'chai';
-
 class HomePage {
     get = {
         closePopUpButton: ()=> cy.get('[data-headlessui-state = open] svg'),

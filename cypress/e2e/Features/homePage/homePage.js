@@ -1,5 +1,6 @@
 import {Given,When,Then, And} from 'cypress-cucumber-preprocessor/steps';
 import { homePage } from '../../../../pages/homePage';
+import { removeLogs } from '../../../helpers/RemoveLogs';
 
 
 Given("Dado que Ingresé al portal web www.bg.com.bo", ()=> {
@@ -26,3 +27,4 @@ Then("Entonces obtengo un listado con el",(dataTable)=> {
         })
     });
 })
+removeLogs();

@@ -18,6 +18,6 @@
   
   "cypress-cucumber-preprocessor": {
     "nonGlobalStepDefinitions": true,
-    "stepDefinitions": "cypress/e2e/Features/homePage"
+    "stepDefinitions": "cypress/e2e/Features"
   }
 }

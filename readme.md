@@ -13,20 +13,33 @@ Este repositorio contiene los archivos y el código correspondiente a una prueba
 ```
 git clone https://github.com/rafo18/prueba_Tecnica_Banco_Ganadero.git
 ```
-
 2. Inicializar npm
 ```
 npm init
 ```
-
 3. Instalar Dependencias
 ```
 npm install
 ```
-
 4. Ejecuta Cypress
 ```
 npm run test
 ```
 
+### Estructura del proyecto
+```
+Prueba tecnica:
+└── cypress
+    ├── e2e
+    |   |   
+    │   └── Feature
+    |       |   homePage.feature
+    |       └── homePage
+    |            |
+    |            └── homePage.js (Step definitions)
+    └── pages
+        |
+        └── HomePage.js (Page Object Model)              
+                
+```
 
